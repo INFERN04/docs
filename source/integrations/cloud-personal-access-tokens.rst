@@ -88,7 +88,7 @@ Not in Mattermost, but you can automate your integration to cycle its token `thr
 How do I identify a badly behaving personal access token?
 ..........................................................
 
-The best option is to go to **System Console > Logs** and finding error messages relating to a particular token ID. Once identified, you can search which user account the token ID belongs to in **System Console > User Management > Users** and revoke it through the **Manage Tokens** dropdown option.
+The best option is to go to **System Console > Logs** and find error messages relating to a particular token ID. Once identified, you can search which user account the token ID belongs to in **System Console > User Management > Users** and revoke it through the **Manage Tokens** dropdown option.
 
 Do personal access tokens continue to work if the user is deactivated?
 ........................................................................
